@@ -1,0 +1,7 @@
+嘗試後 無法承先出相同銀河效果
+可能是three.js有新的用法以至於就方法不適用
+須找其他教學來找答案
+
+3D Space Warp JavaScript Effect - Three.js Tutorial
+
+https://youtu.be/Bed1z7f1EI4
